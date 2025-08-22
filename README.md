@@ -1,25 +1,24 @@
 # 📝 NoteFlow
 
-NoteFlow is a simple and elegant note-taking application built with **React** and **Vite**. It allows users to add and manage notes with ease. The project is designed with a clean UI and efficient workflow for creating and managing personal notes.
+NoteFlow is a modern and responsive **note-taking web application** built with **React, Vite, and Material UI**. It provides a clean, user-friendly interface for creating, managing, and organizing notes effortlessly. Deployed on **Vercel**, the app ensures **fast performance, seamless accessibility, and a smooth user experience** across devices.
 
 🚀 Live Demo: [NoteFlow on Vercel](https://note-flow-navy.vercel.app/)  
 📂 GitHub Repo: [NoteFlow Repository](https://github.com/krishnareddy006/NoteFlow)
 
 ---
 
-## ✨ Features
-
-- ➕ Add notes with **title** and **content**.
-- 📑 Automatically organizes notes in separate cards.
-- 🎨 Clean, minimal, and user-friendly design.
-- ⚡ Fast performance powered by **Vite** and **React**.
+## 🚀 Features
+- ✨ Create, view, and manage notes in real time  
+- 🎨 Elegant and responsive UI with **Material UI components**  
+- ⚡ Optimized build with **Vite** for faster development and loading  
+- 🌍 Deployed on **Vercel** for reliability and global accessibility  
+- 🗂️ Lightweight, simple, and easy to extend  
 
 ---
 
 ## 🛠️ Tech Stack
+- **Frontend:** React, Vite  
+- **UI Framework:** Material UI  
+- **Deployment:** Vercel  
 
-- **Frontend**: React, Vite  
-- **Styling**: CSS  
-- **Deployment**: Vercel  
-- **Version Control**: Git & GitHub  
-
+---
